@@ -32,4 +32,4 @@ This project contains a Flutter frontend and a FastAPI backend for a simple chat
 ## Requirements
 - Flutter SDK
 - Python 3.9+
-- API Key from:
+- API Key
